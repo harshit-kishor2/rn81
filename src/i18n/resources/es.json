@@ -1,0 +1,4 @@
+{
+  "welcome_message": "Bienvenido a la aplicación",
+  "greeting": "Hola, {{name}}"
+}
