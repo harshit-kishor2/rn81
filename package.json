@@ -9,6 +9,7 @@
     "start": "react-native start",
     "test": "jest",
     "pod": "cd ios && pod install && cd ..",
+    "postinstall": "npx patch-package",
     "gen:assets": "node scripts/generate-assets.js"
   },
   "dependencies": {
